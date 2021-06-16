@@ -1,0 +1,10 @@
+{
+  "suggest.noselect": false,
+  "eslint.autoFixOnSave": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "typescript",
+    "json",
+    "typescriptreact"
+  ],
+  "diagnostic.displayByAle": true
+}
