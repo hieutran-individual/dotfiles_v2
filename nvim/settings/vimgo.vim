@@ -33,5 +33,3 @@ augroup go
   au Filetype go command! -bang AS call go#alternate#Switch(<bang>0, 'split')
   au Filetype go command! -bang AT call go#alternate#Switch(<bang>0, 'tabe')
 augroup END
-:call extend(g:ale_linters, {
-    \"go": ['golint', 'go vet'], })

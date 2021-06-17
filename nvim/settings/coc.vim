@@ -1,7 +1,7 @@
 "*****************************************************************************
 "" Settings
 "*****************************************************************************
-let g:coc_global_extensions=["coc-tsserver", "coc-json", "coc-yaml", "coc-snippets", "coc-eslint", "coc-prettier", "coc-vimlsp", "coc-sql", "coc-sh", "coc-html", "coc-fish", "coc-go"]
+let g:coc_global_extensions=["coc-tsserver", "coc-json", "coc-yaml", "coc-snippets", "coc-eslint", "coc-prettier", "coc-vimlsp", "coc-sql", "coc-sh", "coc-html", "coc-fish", "coc-go", "coc-diagnostic"]
 "*****************************************************************************
 "" Keymapings
 "*****************************************************************************
